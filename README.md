@@ -6,6 +6,12 @@
 
     javac Server.java
     java Server
+    
+#### After Running Server
+
+
+#### Now Open Another Console
+
 
 ### 2. Run Client.java Class Using Following Commands
 
